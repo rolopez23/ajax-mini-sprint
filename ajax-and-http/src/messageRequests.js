@@ -1,7 +1,7 @@
 /* 
 NOTE: This part of the exercise is intended to give you some insight into how Chatterbox Client will interact with an
 external data store (a Parse server, in this instance) where messages for the application can be retrieved and stored. 
-The functionality that you will beimplementing here will be similar to the functionality that is provided for you in 
+The functionality that you will be implementing here will be similar to the functionality that is provided for you in 
 the main sprint, so take the time to build an understanding of the interactions!
 
 In the first part of this mini-sprint, you were dealing with a json-server that you had started up yourself - similar to

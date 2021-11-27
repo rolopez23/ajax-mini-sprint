@@ -30,7 +30,7 @@ var getAllItems = (/* FILL_ME_IN */) => {
 
 var getAllItemsCallback = ((/* FILL_ME_IN */) => {
   // TODO: Log the data for the item that comes back
-};
+});
 
 /* ========== getOneItem ========== /
  * Fix the call below!
